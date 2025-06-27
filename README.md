@@ -97,7 +97,7 @@ The platform was built for learning purposes, with focus on real-time systems us
 🙋 Author
 Phan Thanh Bình
 
-Student at HCMUTE (Đại học Sư Phạm Kỹ Thuật TP.HCM)
+Student at NLU( Đại học Nông Lâm tp.HCM)
 
 GitHub: @binhdtqxk
 
